@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  RuntimeLocalizable
+
+  Created by Sebastian Owodzin on 30/08/2017.
+  Copyright © 2017 mobiletoolkit.org. All rights reserved.
+*/
+
+"Welcome" = "Witaj";
+"Some example text..." = "Jakiś przykładowy tekst...";
+"Cancel" = "Anuluj";

@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "PL"; ObjectID = "5Cm-Kg-JSd"; */
+"5Cm-Kg-JSd.normalTitle" = "PL";
+
+/* Class = "UILabel"; text = "Switch language"; ObjectID = "WdP-1K-a3c"; */
+"WdP-1K-a3c.text" = "Przełącz język";
+
+/* Class = "UIButton"; normalTitle = "EN"; ObjectID = "agB-c4-K4W"; */
+"agB-c4-K4W.normalTitle" = "EN";
+
+/* Class = "UIButton"; normalTitle = "Show message"; ObjectID = "bMx-NW-Qrw"; */
+"bMx-NW-Qrw.normalTitle" = "Pokaż wiadomość";
+
+/* Class = "UIButton"; normalTitle = "Default"; ObjectID = "ozI-xM-HEm"; */
+"ozI-xM-HEm.normalTitle" = "Domyślny";
